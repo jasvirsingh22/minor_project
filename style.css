@@ -1,0 +1,247 @@
+header{
+background-color: rgb(89, 32, 197);
+height: 77vh;
+}
+header .nav-item nav{
+    display: flex;
+    justify-content: baseline;
+}
+header .nav-item nav a img{
+    height: 50px;
+
+}
+header .nav-item nav a {
+    color: white!important;
+     text-decoration:none ;
+     padding: 20px;
+     display: flex;
+     justify-content: baseline;
+     text-transform: uppercase;
+     
+    
+}
+
+.maincontent .inputfield input{
+    height: 60px;
+    width: 300px;
+border-radius: 10px;
+margin-left: 50px;
+margin-top: 20px;
+}
+
+.maincontent{
+column-gap: 80px;
+color: white!important;
+column-count: 2;
+margin-left: 50px;
+}
+.image-div-section img
+{
+    height: 40vh;
+    width: 30vw;
+    margin-left: 90px;
+
+    border-radius: 30px;
+    box-shadow: blue;
+    margin-top: 40px;
+}
+.maincontent main{
+    display: flex;
+border-radius: 20px;
+
+  border: 2px solid white!important;
+  padding: 5px 20px;
+  
+
+}
+.maincontent main p{
+    margin-left: 20px;
+}
+.maincontent main button {
+    margin-left: 150px;
+
+}
+.maincontent .or{
+    text-align: center;
+margin-top: 10px;
+}
+
+
+/* end of header area */
+.mainarea{
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right: 70px;
+   background-color: white!important;
+
+}
+
+
+
+.what-car-insurance{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+.explain-car-insuranc{
+text-align:justify;
+color: black!important;
+
+}
+
+.key-feature {
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right: 70px;
+   background-color: white!important;
+   display: flex;
+   text-transform: capitalize;
+   
+} 
+.key-feature .heading-of-feature{
+    text-align: center;
+} 
+.key-feature .heading-of-feature p{
+    font-size: 18px ;
+    margin-left: 20px;
+}
+.explain-of-key-feature{
+        column-gap: 30px;
+    margin-left: 70px;
+    margin-top: 30px;
+    margin-right: 70px;
+   background-color: white!important;
+column-count: 2;
+
+
+}
+
+
+
+.more-car-insurance-feature{
+    margin-left: 130px;
+
+}
+.heading-of-car-insurance h3{
+text-align: center;
+
+}
+
+.explain-features table{
+    height:100vh;
+    width: 70vw;
+    
+margin-left: 90px;
+}
+.explain-features table tr th{
+    border:1px solid black;
+    padding: 20px 10px;
+}
+.explain-features table tr td{
+    border:1px solid black;
+    padding: 20px 10px;
+
+}
+
+.headingtypes
+{
+    text-align: center;
+}
+
+.types-of-car-insurance{
+    /* display: inline; */
+    /* column-count: 3; */
+    column-gap: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 70px;
+    text-align: justify;
+
+}
+
+
+.claim-process
+{
+    text-align: center;
+}
+
+.claim-process-expian{
+    column-gap: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 70px;
+    text-align: justify;
+    display:flex;
+    column-count: 3;   
+}
+
+
+.doument-required{
+    text-align: center;
+}
+.buy-car-insurance-buy{
+    text-align: center;
+}
+
+.process-of-buying-car-insurance{
+    column-gap: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 70px;
+    text-align: justify;
+    display:flex;
+    column-count: 3;   
+}
+
+.four-wheelar-car-insurance{
+    text-align: center;
+}
+
+.expliancarinsurancefourwheeler{
+    column-gap: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 70px;
+    /* text-align: justify; */
+    display:flex;
+   
+}
+.secondprocessfour {
+    column-gap: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 70px;
+    /* text-align: justify; */
+    display:flex;
+    column-count: 3;
+}
+.fourthwheeeler{
+    width: 23vw;
+}
+
+.hm{
+    color:black!important;
+}
+
+.addressofacko{
+    display: flex;
+    column-count: 2;
+    margin-left: 70px;
+margin-left: 70px;
+column-gap: 260px;
+
+}
+.addressofacko img{
+    height: 50px;
+
+
+}
+
+
+.addressofacko address p{
+    font-size:14px;
+}
+.addressofacko aside{
+    margin-top: 20px;
+    }
